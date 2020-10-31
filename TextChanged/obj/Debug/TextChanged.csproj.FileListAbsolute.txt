@@ -1,0 +1,9 @@
+C:\Users\ua4aeu\Desktop\WF\TextChanged\obj\Debug\TextChanged.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\WF\TextChanged\obj\Debug\TextChanged.Form1.resources
+C:\Users\ua4aeu\Desktop\WF\TextChanged\obj\Debug\TextChanged.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\WF\TextChanged\obj\Debug\TextChanged.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\WF\TextChanged\obj\Debug\TextChanged.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\WF\TextChanged\bin\Debug\TextChanged.exe
+C:\Users\ua4aeu\Desktop\WF\TextChanged\bin\Debug\TextChanged.pdb
+C:\Users\ua4aeu\Desktop\WF\TextChanged\obj\Debug\TextChanged.exe
+C:\Users\ua4aeu\Desktop\WF\TextChanged\obj\Debug\TextChanged.pdb

@@ -1,0 +1,2 @@
+# TextChanged
+Событие TextChanged
